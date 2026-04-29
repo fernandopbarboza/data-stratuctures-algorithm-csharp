@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="lbrPalindrome/lbrPalindrome.csproj" />
+  <Project Path="tstPalindrome/tstPalindrome.csproj" />
+</Solution>

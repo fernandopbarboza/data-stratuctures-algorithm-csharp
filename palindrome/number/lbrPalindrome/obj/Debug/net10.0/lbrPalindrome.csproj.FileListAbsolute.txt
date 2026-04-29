@@ -1,0 +1,11 @@
+C:\Users\ExpertFiscal\Documents\Fernando\PR0JECT5\data-stratuctures-algorithm\palindrome\number\csharp\lbrPalindrome\bin\Debug\net10.0\lbrPalindrome.deps.json
+C:\Users\ExpertFiscal\Documents\Fernando\PR0JECT5\data-stratuctures-algorithm\palindrome\number\csharp\lbrPalindrome\bin\Debug\net10.0\lbrPalindrome.dll
+C:\Users\ExpertFiscal\Documents\Fernando\PR0JECT5\data-stratuctures-algorithm\palindrome\number\csharp\lbrPalindrome\bin\Debug\net10.0\lbrPalindrome.pdb
+C:\Users\ExpertFiscal\Documents\Fernando\PR0JECT5\data-stratuctures-algorithm\palindrome\number\csharp\lbrPalindrome\obj\Debug\net10.0\lbrPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ExpertFiscal\Documents\Fernando\PR0JECT5\data-stratuctures-algorithm\palindrome\number\csharp\lbrPalindrome\obj\Debug\net10.0\lbrPalindrome.AssemblyInfoInputs.cache
+C:\Users\ExpertFiscal\Documents\Fernando\PR0JECT5\data-stratuctures-algorithm\palindrome\number\csharp\lbrPalindrome\obj\Debug\net10.0\lbrPalindrome.AssemblyInfo.cs
+C:\Users\ExpertFiscal\Documents\Fernando\PR0JECT5\data-stratuctures-algorithm\palindrome\number\csharp\lbrPalindrome\obj\Debug\net10.0\lbrPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\ExpertFiscal\Documents\Fernando\PR0JECT5\data-stratuctures-algorithm\palindrome\number\csharp\lbrPalindrome\obj\Debug\net10.0\lbrPalindrome.dll
+C:\Users\ExpertFiscal\Documents\Fernando\PR0JECT5\data-stratuctures-algorithm\palindrome\number\csharp\lbrPalindrome\obj\Debug\net10.0\refint\lbrPalindrome.dll
+C:\Users\ExpertFiscal\Documents\Fernando\PR0JECT5\data-stratuctures-algorithm\palindrome\number\csharp\lbrPalindrome\obj\Debug\net10.0\lbrPalindrome.pdb
+C:\Users\ExpertFiscal\Documents\Fernando\PR0JECT5\data-stratuctures-algorithm\palindrome\number\csharp\lbrPalindrome\obj\Debug\net10.0\ref\lbrPalindrome.dll
