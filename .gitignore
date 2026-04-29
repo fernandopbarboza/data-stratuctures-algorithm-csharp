@@ -1,0 +1,38 @@
+## Ignorar arquivos de build
+[Bb]in/
+[Oo]bj/
+
+## Ignorar pastas de pacotes
+[Pp]ackages/
+
+## Ignorar arquivos de preferências do usuário e IDE
+.vs/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+## Ignorar logs e resultados de testes
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.log
+
+## Ignorar arquivos temporários e de cache
+*.cache
+*.tmp
+*.bak
+*.swp
+
+## Ignorar arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+## SEGURANÇA: Ignorar configurações locais de desenvolvimento e segredos
+appsettings.Development.json
+appsettings.Local.json
+*.env
+secrets.json

@@ -82,7 +82,7 @@ public bool IsPalindrome(int x) {
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/palindrome-number.git](https://github.com/seu-usuario/palindrome-number.git)
+   git clone [https://github.com/fernandopbarboza/data-stratuctures-algorithm-csharp.git](https://github.com/fernandopbarboza/data-stratuctures-algorithm-csharp.git)
    ```
 2. **Execute o C#:** Abra em qualquer IDE .NET ou use o comando `dotnet run`.
 
